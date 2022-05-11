@@ -1,5 +1,5 @@
 name: warcrafty
-description: A new Flutter package project.
+description: A library used to read / write dbc / db2 file, and will support mpq generate in the future.
 version: 0.0.1
 homepage: https://warcrafty.foxwow.xyz
 
